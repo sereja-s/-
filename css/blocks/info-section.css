@@ -1,7 +1,7 @@
 .info-section {
 	padding: 68px 0;
 	position: relative;
-	background: url("./../../img/info-block/bg-1.jpg");
+	background: url("./../../img/info-block/фон-min.jpg");
 	background-size: cover; /*Масштабирует картинку так, чтобы она накрыла собой весь блок с сохранением пропорций. Картинка будет стараться поместиться целиком, но это не всегда будет получаться, поэтому какая-то ее часть будет обрезаться. Блок всегда будет покрыт картинкой целиком.*/
 	background-position: center;
 	text-align: center;
